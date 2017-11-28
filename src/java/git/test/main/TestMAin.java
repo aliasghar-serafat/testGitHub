@@ -14,6 +14,9 @@ public class TestMAin {
 		System.out.println("teasdst03");
 		System.out.println("tasdest04");
 	System.out.println("teasdst05");
+	System.out.println("teasdst05");
+	System.out.println("teasdst05");
+	System.out.println("teasdst05");
 
         System.out.println("teasdst06");
     }
