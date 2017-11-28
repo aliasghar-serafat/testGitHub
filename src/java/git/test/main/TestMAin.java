@@ -9,12 +9,12 @@ public class TestMAin {
     }
 
     public static void main(String[] args) {
-        System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-	System.out.println("test");
+        System.out.println("txdest01");
+		System.out.println("teasdst02");
+		System.out.println("teasdst03");
+		System.out.println("tasdest04");
+	System.out.println("teasdst05");
 
-        System.out.println("test");
+        System.out.println("teasdst06");
     }
 }
